@@ -8,4 +8,4 @@ This Project is to showcase what I have learned so far in The Odin Project curri
 - Creation of HTML Files
 - Images in HTML
 - Links in HTML
-- Lists in HTMl 
+- Lists in HTML
